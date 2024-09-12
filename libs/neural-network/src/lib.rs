@@ -32,5 +32,7 @@ struct Neuron {
 }
 
 impl Neuron {
-    fn propagate(&self, inputs: &[f32]) -> f32 {}
+    fn propagate(&self, inputs: &[f32]) -> f32 {
+        todo!()
+    }
 }
